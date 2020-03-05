@@ -1,0 +1,1 @@
+INSERT INTO `cms_site` (`id`, `name`, `description`, `simpleName`, `domain_path`, `path`, `template_id`, `del_flag`, `create_by`, `create_at`, `update_by`, `update_at`, `is_current_site`) VALUES ('1', '人民科技', '', '', 'http://10.3.37.64', 'http://10.3.37.64:8080/login.html', NULL, '0', NULL, NULL, '1', NULL, NULL);
